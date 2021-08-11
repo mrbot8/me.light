@@ -1,4 +1,4 @@
-❮ ❮ 𝐁𝐘 𝐏𝐀𝐓𝐎 ❯ ❯
+❮ ❮ 𝐁𝐘 LUZ
 
 ➤Comandos
 
@@ -6,11 +6,11 @@ pkg update
 
 pkg upgrade
 
-pkg install git
+paquete instalar git
 
-git clone https://github.com/Mr-Pato/self-bot
+clon de git https://github.com/Mr-Pato/self-bot
 
-cd self-bot
+CD.
 
 bash install.sh
 
